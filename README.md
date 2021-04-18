@@ -13,7 +13,9 @@ Weidong Sun, Tsinghua University, Dept.of Electronic Engineering.
 ----------------------------------------------------------------------------------------------------
 Use:
 The Matlab 2017 should be installed first.
+
 Modified the superpixels.m according to superpixels_modified.m.
+
 You can then run the program "main_MS3.m".
 
 For more details about the algorithm, please refer to our article.
