@@ -1,7 +1,7 @@
 
 This is the Matlab program of our paper 
 "A Spectral-spatial Jointed Spectral Super-resolution and Its Application to HJ-1A Satellite Images" 
-accepted by IEEE Geoscience and Remote Sensing Letters (GRSL).
+accepted by IEEE Geoscience and Remote Sensing Letters (GRSL), vol. 19, pp. 1-5, 2022.
 
 ----------------------------------------------------------------------------------------------------
 Copyright 2021
@@ -18,7 +18,7 @@ You can then run the program "main_MS3.m".
 
 For more details about the algorithm, please refer to our article.
 Citation:
-X. Han, H. Zhang, J. Xue and W. Sun, "A Spectral-spatial Jointed Spectral Super-resolution and Its Application to HJ-1A Satellite Images," IEEE Geoscience and Remote Sensing Letters, 2021.
+X. Han, H. Zhang, J. -H. Xue and W. Sun, "A Spectral–Spatial Jointed Spectral Super-Resolution and Its Application to HJ-1A Satellite Images," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, Art no. 5505905, doi: 10.1109/LGRS.2021.3073501
 
 Our related articles:
 [1] X. Han, J. Yu, J. Luo,and W. Sun, "Hyperspectral and multispectral image fusion using cluster-based multi-branch BP neural networks", Remote Sensing, vol. 11, no. 10, pp. 1173, 2019. 
